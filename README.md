@@ -1,10 +1,10 @@
 # CUSTOMIZE
 
--BY @NUGRAHA.PHB
+- BY @NUGRAHA.PHB
 
 # THIS CODE FROM CR :
 
--Deka Tutorial
--Youtube: Deka Tutorial
--Tiktok: @deka_tutorial
--Instagram : @deka_tutorial
+- Deka Tutorial
+- Youtube: Deka Tutorial
+- Tiktok: @deka_tutorial
+- Instagram : @deka_tutorial
